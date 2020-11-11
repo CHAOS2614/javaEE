@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MavendemoApplication {
 
     public static void main(String[] args) {
+        System.out.println("hello world");
         SpringApplication.run(MavendemoApplication.class, args);
     }
 
